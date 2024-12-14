@@ -32,7 +32,7 @@ const Footer: React.FC<Props> = ({}) => {
             <li>
               <span>Call Us: </span>
               <a href={navbar.PHONE_WHATSAPP} className="hyperlink">
-                (502) 382-0019
+                (234) 567-8900
               </a>
             </li>
           </ul>
