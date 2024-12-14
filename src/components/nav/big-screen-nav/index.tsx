@@ -550,7 +550,7 @@ const Navbar: React.FC<Props> = ({smallNavOpen, setSmallNavOpen, isPuppiesForSal
                     
                     <li className="phone">
                         <a className="header-nav__links-phone hyperlink js-header-nav-phone" href={navbar.PHONE_WHATSAPP}>
-                            (502) 382-0019
+                            (234) 567-8900
                         </a>
                     </li>
                 
