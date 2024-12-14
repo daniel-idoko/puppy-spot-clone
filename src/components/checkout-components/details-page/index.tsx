@@ -745,7 +745,7 @@ const DetailsSection: React.FC<Props> = ({ puppyInfo, shippingPrice }) => {
                     </fieldset>
 
                     <div className="tw-px-6 sm:tw-px-0">
-                        <button onClick={onSubmit} style={{"--button-color":"var(--mantine-color-white)"} as React.CSSProperties } className="mantine-focus-auto mantine-active tw-px-6 tw-py-4 tw-h-[52px] tw-rounded-full tw-w-full tw-bg-blue-01 hover:tw-bg-blue-02 data-[disabled]:tw-bg-gray-05 disabled:tw-bg-gray-05 lg:tw-max-w-[400px] tw-mx-auto m_77c9d27d mantine-Button-root m_87cf2631 mantine-UnstyledButton-root" type="button">
+                        <button style={{"--button-color":"var(--mantine-color-white)"} as React.CSSProperties } className="mantine-focus-auto mantine-active tw-px-6 tw-py-4 tw-h-[52px] tw-rounded-full tw-w-full tw-bg-blue-01 hover:tw-bg-blue-02 data-[disabled]:tw-bg-gray-05 disabled:tw-bg-gray-05 lg:tw-max-w-[400px] tw-mx-auto m_77c9d27d mantine-Button-root m_87cf2631 mantine-UnstyledButton-root" type="button">
                             <span className="m_80f1301b mantine-Button-inner">
                                 <span className="tw-font-inter tw-font-bold tw-text-base tw-whitespace-normal tw-h-[52px] tw-overflow-visible tw-leading-normal m_811560b9 mantine-Button-label">
                                     Continue to travel programs 
