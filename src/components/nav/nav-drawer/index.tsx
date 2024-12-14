@@ -247,7 +247,7 @@ const NavDrawer: React.FC<Props> = ({smallNavOpen, setSmallNavOpen}) => {
 
                     <li className="drawer-phone">
                         <a className="drawer-hyperlink-small" href={navbar.PHONE_WHATSAPP}>
-                            (502) 382-0019
+                            (234) 567-8900
                         </a>
                     </li>
                 </ul>
